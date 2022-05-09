@@ -26,7 +26,7 @@ All Component list have to been given below –
 
 1.	Transistor – BD 139
 	
-2.		Capacitor – 47µf / 25v
+2.	Capacitor – 47µf / 25v
 
 3.	Resistors – 10 KΩ
 
@@ -47,10 +47,15 @@ If we count its leg from left side then 1st leg Emitter, 2nd leg Collector and 3
 
 
 Feature
+
 ✔ Strobe lights and SoS signal circuits
+
 ✔ Car light indicators
-✔	Wiper motors
-✔	Turning indicator circuits for vehicles and cycles
-✔	Counter circuits
+
+✔ Wiper motors
+
+✔ Turning indicator circuits for vehicles and cycles
+
+✔ Counter circuits
 
 
